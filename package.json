@@ -17,10 +17,10 @@
   },
   "homepage": "https://github.com/abdulcompsci/coderco-custom#readme",
   "description": "",
-  "dependencies": {
-    "@actions/core": "^3.0.1"
-  },
   "devDependencies": {
     "@vercel/ncc": "^0.45.0"
+  },
+  "dependencies": {
+    "@actions/core": "^2.0.3"
   }
 }
